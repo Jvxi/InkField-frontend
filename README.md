@@ -1,16 +1,18 @@
 <div align="center">
 
-<!-- ====== 动态打字标题 ====== -->
-<a href="https://github.com/Jvxi/InkField-frontend">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%96%A5%EF%B8%8F+InkField+Frontend;React+%2B+TypeScript+%2B+Vite" alt="Typing SVG" />
-</a>
+<!-- ====== 动态波浪头部 ====== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=150&section=header" width="100%"/>
 
 <br/>
 
-<!-- ====== 动态 Banner ====== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=180&section=header&text=Frontend&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=React%20+%20Vite%20+%20TypeScript&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
+<!-- ====== 项目标题 ====== -->
+# 🖥️ InkField Frontend
 
-<br/><br/>
+### ✨ React + Vite + TypeScript ✨
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=50&lines=砚田小说创作平台-前端应用;现代化Web界面)](https://git.io/typing-svg)
+
+<br/>
 
 <!-- ====== 徽章组 ====== -->
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
