@@ -329,27 +329,6 @@ npm run build
 
 <br/>
 
-## 📊 GitHub 统计
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jvxi&show_icons=true&theme=radical&border_color=61DAFB&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true&repo=InkField-frontend" width="48%"/>
-
-&nbsp;
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Jvxi&layout=compact&theme=radical&border_color=61DAFB&title_color=61DAFB&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8&repo=InkField-frontend" width="40%"/>
-
-</div>
-
-<br/>
-
-<!-- ====== 动态分隔线 ====== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
 ## 🔗 相关仓库
 
 <div align="center">
