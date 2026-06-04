@@ -11,7 +11,7 @@
 
 ### ✨ React + Vite + TypeScript ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=砚田小说创作平台-前端应用;现代化Web界面" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=InkField+Frontend;React+%2B+Vite+%2B+TypeScript" alt="Typing SVG" />
 
 </div>
 
