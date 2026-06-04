@@ -1,0 +1,6 @@
+{
+  "statusLine": {
+    "type": "command",
+    "command": "bash \"G:/Software/Project/小说/frontend/.claude/statusline-command.sh\""
+  }
+}
