@@ -3,16 +3,19 @@
 <!-- ====== 动态波浪头部 ====== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=150&section=header" width="100%"/>
 
-<br/>
+</div>
 
-<!-- ====== 项目标题 ====== -->
+<div align="center">
+
 # 🖥️ InkField Frontend
 
 ### ✨ React + Vite + TypeScript ✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=50&lines=砚田小说创作平台-前端应用;现代化Web界面)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=砚田小说创作平台-前端应用;现代化Web界面" alt="Typing SVG" />
 
-<br/>
+</div>
+
+<div align="center">
 
 <!-- ====== 徽章组 ====== -->
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
