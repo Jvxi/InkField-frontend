@@ -105,7 +105,7 @@ export default function RegisterPage(): JSX.Element {
           <div className="auth-page-brand">
             <BrandMark size={48} className="brand-mark--lg" />
             <div>
-              <p className="eyebrow">网文助手</p>
+              <p className="eyebrow">砚田</p>
               <h1>创建写作账号</h1>
             </div>
           </div>

@@ -40,7 +40,7 @@ function LibraryShell(props: { children: React.ReactNode }): JSX.Element {
         <div className="topbar-brand">
           <BrandMark size={32} />
           <div>
-            <p className="eyebrow">网文助手</p>
+            <p className="eyebrow">砚田</p>
             <h1>我的书库</h1>
           </div>
         </div>
@@ -161,7 +161,7 @@ export default function AppLayout(): JSX.Element {
         <div className="loading-card">
           <div className="auth-page-brand loading-card-brand">
             <BrandMark size={40} className="brand-mark--lg" />
-            <h1>网文助手</h1>
+            <h1>砚田</h1>
           </div>
           <p>{statusText}</p>
           {errorText ? <p className="error-text">{errorText}</p> : null}
@@ -228,7 +228,7 @@ export default function AppLayout(): JSX.Element {
           <nav className="mobile-menu-drawer" aria-label="移动端导航">
             <div className="mobile-menu-header">
               <BrandMark size={32} />
-              <span>网文助手</span>
+              <span>砚田</span>
               <button
                 className="mobile-menu-close"
                 onClick={() => setIsMobileMenuOpen(false)}

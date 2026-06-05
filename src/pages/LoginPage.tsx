@@ -26,7 +26,7 @@ export default function LoginPage(): JSX.Element {
           <div className="auth-page-brand">
             <BrandMark size={48} className="brand-mark--lg" />
             <div>
-              <p className="eyebrow">网文助手</p>
+              <p className="eyebrow">砚田</p>
               <h1>欢迎回来</h1>
             </div>
           </div>

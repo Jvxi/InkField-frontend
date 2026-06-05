@@ -12,7 +12,7 @@ export default function AuthenticatedShell(): JSX.Element {
     return (
       <div className="auth-page auth-page--loading">
         <div className="auth-page-card">
-          <h1>网文助手</h1>
+          <h1>砚田</h1>
           <p>正在验证登录状态…</p>
         </div>
       </div>
